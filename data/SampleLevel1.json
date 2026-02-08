@@ -1,11 +1,11 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "id": 128,
+    "name": "Mine circles",
+    "author": "Zobros",
+    "creators": ["Zobros"],
+    "verifier": "revooh",
+    "verification": "https://www.youtube.com/@revoohgd",
+    "percentToQualify": 80,
     "password": "Not Copyable",
     "records": [
         {
