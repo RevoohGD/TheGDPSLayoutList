@@ -1,15 +1,15 @@
 {
     "id": 128,
-    "name": "Mine circles",
-    "author": "Zobros",
-    "creators": ["Zobros"],
+    "name": "B",
+    "author": "motleyorc",
+    "creators": ["motleyorc"],
     "verifier": "revooh",
     "verification": "https://www.youtube.com/@revoohgd",
-    "percentToQualify": 80,
-    "password": "Not Copyable",
+    "percentToQualify": 67,
+    "password": "Free To Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "Sample_K",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
