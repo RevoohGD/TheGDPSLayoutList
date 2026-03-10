@@ -7,12 +7,14 @@
     "verification": " ",
     "percentToQualify": "92",
     "password": "121214",
-    "records": [{ "user": "revooh",
+    "records": [
+      { "user": "revooh",
             "link": "https://youtube.com/watch",
             "percent": 100,
             "hz": 60
 }
-{ "user": "gruyere",
-  "link": " ",
-  "percent": 100,
-  "hz": 240 ]
+      { "user": "gruyere",
+            "link": " ",
+            "percent": 100,
+            "hz": 240
+            ]
