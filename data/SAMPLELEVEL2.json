@@ -7,6 +7,9 @@
     "verification": " ",
     "percentToQualify": "92",
     "password": "121214",
-    "records": [erland
+    "records": [ "user": "Sample_Victor_1",
+            "link": "youtube.com/watch",
+            "percent": 100,
+            "hz": 240
     ]
 }
