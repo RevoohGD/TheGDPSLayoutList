@@ -1,20 +1,24 @@
 {
     "id": 57436521,
-    "name": "Nine_Circles",
-    "author": "zobros",
-    "creators": "zobros",
-    "verifier": "zobros",
-    "verification": " ",
-    "percentToQualify": "92",
-    "password": "121214",
+    "name": "B",
+    "author": "motleyorc",
+    "creators": ["motleyorc"],
+    "verifier": "revooh",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "100",
+    "password": "free to copy",
     "records": [
-      { "user": "revooh",
-            "link": "https://youtube.com/watch",
+        {
+            "user": "gruyere",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 60
+            "hz": 360
+        },
+        {
+            "user": "muchhive",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
 }
-      { "user": "gruyere",
-            "link": " ",
-            "percent": 100,
-            "hz": 240
-            ]
