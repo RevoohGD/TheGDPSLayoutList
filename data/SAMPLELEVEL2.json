@@ -1,24 +1,18 @@
 {
     "id": 57436521,
-    "name": "B",
-    "author": "motleyorc",
-    "creators": ["motleyorc"],
-    "verifier": "revooh",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "free to copy",
+    "name": "show me your heart",
+    "author": "lavenderr",
+    "creators": ["lavenderr"],
+    "verifier": "lavenderr",
+    "verification": "https://www.youtube.com/watch",
+    "percentToQualify": "50",
+    "password": "NA",
     "records": [
         {
-            "user": "gruyere",
+            "user": "meteor_impact",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "muchhive",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+            "hz": 50
         }
     ]
 }
