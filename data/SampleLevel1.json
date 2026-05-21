@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "Nine Circles",
-    "author": "Zobros",
-    "creators": ["Zobros"],
-    "verifier": "revooh",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "121214",
+    "id": 74401,
+    "name": "Water Caves",
+    "author": "artem157",
+    "creators": ["artem157"],
+    "verifier": "shoreline",
+    "verification": "https://www.youtube.com/watch",
+    "percentToQualify": "50",
+    "password": "NA",
     "records": [
         {
-            "user": "gruyere",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "redcohengd",
+            "link": "https://www.youtube.com/watch",
             "percent": 100,
-            "hz": 120
+            "hz": 50
         }
     ]
 }
